@@ -20,7 +20,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
 public class hostAccountView extends HttpServlet {
 
     /**
@@ -105,6 +104,9 @@ public class hostAccountView extends HttpServlet {
         processRequest(request, response);
     }
 
+    
+    
+    
     /**
      * Handles the HTTP <code>POST</code> method.
      *
